@@ -19,7 +19,7 @@ class HomePage extends StatelessWidget {
           backgroundColor: Colors.red),
       body: const Center(
         child: Text(
-          "Hi, Welcome to this page",
+          "Hi, Welcome to this page.",
           style: TextStyle(fontSize: 25, fontWeight: FontWeight.bold
 
               // Set the desired font size
